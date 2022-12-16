@@ -5,7 +5,31 @@ Meticulous Data Scientist accomplished in compiling, transforming and analyzing 
 
 *   🌍  I'm based in Pune
 *   🖥️  See my portfolio at [Github](http://github.com/BhargavKarkare?tab=repositories)
-*   ✉️  You can contact me at [karkare.bhargav8@gmail.com](mailto:karkare.bhargav8@gmail.com)### Skills 
+*   ✉️  You can contact me at [karkare.bhargav8@gmail.com](mailto:karkare.bhargav8@gmail.com)
+
+### Socials
+              
+<p align="left">
+                      
+<a href="https://www.github.com/BhargavKarkare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/bhargav-karkare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="http://www.medium.com/bhargav-karkare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+<a href="https://www.stackoverflow.com/users/bhargav-karkare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/BhargavKarkare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+Data Scientist with the knowdledge of Machine Learning and Deep Learning. Eager to bring expertise to solve new challenging problems.
+
+• proficient in Functional and Object-Oriented Programming styles of Python.
+
+• Got good exposure to UI UX design using Adobe Photoshop, and Adobe Illustrator, Performed slicing and dicing to convert a Photoshop design into a fully functional HTML, CSS and JS enabled website.
+
+• Expertise in Full Web Stack libraries like Django.
+
+• In-depth understanding of Power BI.
+
+
+### Skills
+
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
@@ -21,16 +45,21 @@ Meticulous Data Scientist accomplished in compiling, transforming and analyzing 
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
-                    
-### Socials
-              
-<p align="left">
-                      
-<a href="https://www.github.com/BhargavKarkare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/bhargav-karkare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="http://www.medium.com/bhargav-karkare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-<a href="https://www.stackoverflow.com/users/bhargav-karkare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/BhargavKarkare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+Tools | Frameworks
+
+Data Preprocessing: NumPy, Pandas.
+
+Machine and Deep Learning Implementation Framework: Scikit-Learn, Opencv, Tensorflow
+
+Natural Language Processing: NLTK, BERT. Development: Python, Flask, Django, Git.
+
+Data Visualization: Matplotlib, Power BI, Seaborn.
+
+Cloud Services: Azure, Google Colaboratory.
+
+Integrated Development Environment: Jupyter-Notebook, Spyder, PyCharm, Visual Studio, Atom.
+
 ### Badges
 
 <b>My GitHub Stats</b>
