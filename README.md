@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Experienced DevOps Engineer proficient in Git, Docker, Kubernetes, Jenkins, Terraform, AWS, Azure, Grafana, and Prometheus. Skilled in improving development processes, optimizing infrastructure, and enhancing deployment efficiency. Successfully implemented reliable CI/CD pipelines and automated deployment workflows to speed up software delivery. Experienced with cloud platforms and monitoring tools, ensuring reliability, scalability, and performance of systems. Committed to learning and keeping up with new technologies. Seeking to use DevOps expertise to contribute to dynamic teams and drive organizational success.
 
 *   🌍  I'm based in Pune
-*   🖥️  See my portfolio at [Website](https://bhargavkarkare.github.io/BhargavPorfolio.github.io/#)
-*   ✉️  You can contact me at [bhargav.karkare@outlook.com](mailto:bhargav.karkare@outlook.com)
+*   🖥️  See my portfolio at [Website](https://bhargavkarkare.github.io/website/#)
+*   ✉️  You can contact me at [bhargav.karkare@outlook.com](mailto:bhargavkarkare@outlook.com)
 
 ### Socials
               
